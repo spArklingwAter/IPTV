@@ -51,6 +51,24 @@ https://epg.pw/stream/d01056933ac5cbf667dbbc61288a0fd9fe66e18c6f667f258c01230e67
 #EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 凌儿影院 720
 https://epg.pw/stream/25f918bdbb7d362d126a635d689943fe9b54eb6987a422e670552b1ebe3646e1.ctv
 
+#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 星爷影院 720
+https://epg.pw/stream/e649cd7122314ed3e1ef203303e9bf11294f53e5a56b3d2e955903c823324d9d.ctv
+
+#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 下饭神剧 720
+https://epg.pw/stream/ef229c91b3b3bd658f1a4d86d84fa12fda78298dafbad463e739c12f6c2e8709.ctv
+
+#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 小u*鬼片 720
+https://epg.pw/stream/94568d0f9876b83d86240d7334a024b98add6fd4df0e24757a27c391413197df.ctv
+
+#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 动漫直播 720
+https://epg.pw/stream/e669e294c170c38a7c3b7a1492066c626b44a6a38e4c1fe00ca77b003f62c576.ctv
+
+#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 漫威影片 1080
+https://epg.pw/stream/22650b9ded18c92c8515338292e4589e0b2b99d7989a41fddda7b8320f427bc7.ctv
+
+#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 荒野建造者 1080
+https://epg.pw/stream/e06d88e9c92534ad75c0fafc99f6e7515ef3537b0c6f43dc0c2d5f0d129bc8ff.ctv
+
 #EXTINF:-1 group-title="东森" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 东森戏剧台
 https://epg.pw/stream/26debdca4595ae8c1f124ce856699fecd565b49296823238645ff0b3e0e16f2b.ctv
 
