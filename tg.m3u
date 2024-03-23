@@ -1,16 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CGTN
+#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CGTN 576
 https://epg.pw/stream/5f04869499fad3233d1cbad2d29d36fa2afe6377a3ede6b0b91e58e3998c473b.m3u8
 
-#EXTINF:-1 group-title="神乐" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 神乐剧场
-https://epg.pw/stream/071742ce7fb6cb93bfa069eb1914cd6eee02fbf4bf5ba8749eed03fa8b6875d8.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CGTN 6
+https://epg.pw/stream/818865a0d120ab164b82d50accb8101611eeac92d440cd816592d909d4b51685.m3u8
 
-#EXTINF:-1 group-title="神乐" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 神乐剧院
-https://epg.pw/stream/d01056933ac5cbf667dbbc61288a0fd9fe66e18c6f667f258c01230e67b25be5.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CGTN 8
+https://epg.pw/stream/0d147ce40a3bd81f0f8e0a4c658c8f87544e06a0659013299324674dba4bbf53.m3u8
 
-#EXTINF:-1 group-title="耀財" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 耀財財經
-https://epg.pw/stream/3b013250831c9e72615f9d2d2df834bc0eb0bbde5911a30fb34eeb6bfc2f0510.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CGTN 9
+https://epg.pw/stream/17f2e97204f85c9c75746610f376125b774c9ee69be094d60498ea53913cc1de.m3u8
+
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", RTHKTV 32
+https://epg.pw/stream/2e72b8a7fc1adcc198912392aa27586ce85e282cbd2ee4544d9cf398c0e68d97.m3u8
+
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", RTHKTV 33 720
+https://epg.pw/stream/6923d4d4813b6d77a7f00607a9d64e570e06b01d0a1db7ca3a7c29e04d6c205a.m3u8
+
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", RTHKTV 33
+https://epg.pw/stream/7ac2b477ebb7aab968e3ccd99d900060f209a1eb074e6ce945b91571c997ce95.m3u8
+
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", RTHKTV 34 720
+https://epg.pw/stream/2f41dcfe94b387f363249bd732d8791043db8c88e89c4fa7ce55998abe67c630.m3u8
+
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", RTHKTV 34
+https://epg.pw/stream/0fd8018407512cea0d5bbfcbb2b243b6c6e0ae626c9c8396a1d42c907f45464f.m3u8
 
 #EXTINF:-1 group-title="中視" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 中視
 https://epg.pw/stream/d8d3b1452b4420e92ad830b5845e4883d57bdf99128ab9e105ec4492e4532386.ctv
@@ -24,8 +39,23 @@ https://epg.pw/stream/868493d0152ac00b0e11aed6eb73cd9d7c8db8452c47317caa3be71537
 #EXTINF:-1 group-title="中天" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 鏡新聞
 https://epg.pw/stream/1ec83e5bf16fdaae1c6b1b84152578c2559258ae4f9eac5c0ea8c960db35c7c6.m3u8
 
+#EXTINF:-1 group-title="耀財" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 耀財財經
+https://epg.pw/stream/3b013250831c9e72615f9d2d2df834bc0eb0bbde5911a30fb34eeb6bfc2f0510.m3u8
+
+#EXTINF:-1 group-title="神乐" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 神乐剧场
+https://epg.pw/stream/071742ce7fb6cb93bfa069eb1914cd6eee02fbf4bf5ba8749eed03fa8b6875d8.m3u8
+
+#EXTINF:-1 group-title="神乐" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 神乐剧院
+https://epg.pw/stream/d01056933ac5cbf667dbbc61288a0fd9fe66e18c6f667f258c01230e67b25be5.m3u8
+
+#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 凌儿影院 720
+https://epg.pw/stream/25f918bdbb7d362d126a635d689943fe9b54eb6987a422e670552b1ebe3646e1.ctv
+
 #EXTINF:-1 group-title="东森" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 东森戏剧台
 https://epg.pw/stream/26debdca4595ae8c1f124ce856699fecd565b49296823238645ff0b3e0e16f2b.ctv
 
+#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV 8K
+https://epg.pw/stream/f48875235ce63399ced8a8f27167ceea2fda31675f2b15a967a49f1ec6bba9f7.m3u8
+
 #EXTINF:-1 group-title="A&E" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", A&E HD
-https://epg.pw/stream/6f1fe4bc344240165c778a640b3fbfcbd8681ef31aeb9b6261360fac8a9e6c72.ctv
+#https://epg.pw/stream/6f1fe4bc344240165c778a640b3fbfcbd8681ef31aeb9b6261360fac8a9e6c72.ctv
