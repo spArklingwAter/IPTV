@@ -12,5 +12,8 @@ https://epg.pw/stream/d01056933ac5cbf667dbbc61288a0fd9fe66e18c6f667f258c01230e67
 #EXTINF:-1 group-title="耀才" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 耀才财经
 https://epg.pw/stream/3b013250831c9e72615f9d2d2df834bc0eb0bbde5911a30fb34eeb6bfc2f0510.m3u8
 
+#EXTINF:-1 group-title="中视" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 中视
+https://epg.pw/stream/d8d3b1452b4420e92ad830b5845e4883d57bdf99128ab9e105ec4492e4532386.ctv
+
 #EXTINF:-1 group-title="东森" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 东森戏剧台
 https://epg.pw/stream/26debdca4595ae8c1f124ce856699fecd565b49296823238645ff0b3e0e16f2b.ctv
