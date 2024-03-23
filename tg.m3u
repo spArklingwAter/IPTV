@@ -1,0 +1,10 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CGTN
+https://epg.pw/stream/5f04869499fad3233d1cbad2d29d36fa2afe6377a3ede6b0b91e58e3998c473b.m3u8
+
+#EXTINF:-1 tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="神乐",神乐剧场
+https://epg.pw/stream/071742ce7fb6cb93bfa069eb1914cd6eee02fbf4bf5ba8749eed03fa8b6875d8.m3u8
+
+#EXTINF:-1 tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="神乐",神乐剧院
+https://epg.pw/stream/d01056933ac5cbf667dbbc61288a0fd9fe66e18c6f667f258c01230e67b25be5.m3u8
