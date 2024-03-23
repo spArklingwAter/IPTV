@@ -1,10 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视", CGTN
+#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CGTN
 https://epg.pw/stream/5f04869499fad3233d1cbad2d29d36fa2afe6377a3ede6b0b91e58e3998c473b.m3u8
 
-#EXTINF:-1 tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="神乐", 神乐剧场
+#EXTINF:-1 group-title="神乐" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 神乐剧场
 https://epg.pw/stream/071742ce7fb6cb93bfa069eb1914cd6eee02fbf4bf5ba8749eed03fa8b6875d8.m3u8
 
-#EXTINF:-1 tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="神乐", 神乐剧院
+#EXTINF:-1 group-title="神乐" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 神乐剧院
 https://epg.pw/stream/d01056933ac5cbf667dbbc61288a0fd9fe66e18c6f667f258c01230e67b25be5.m3u8
+
+#EXTINF:-1 group-title="耀才" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 耀才财经
+https://epg.pw/stream/3b013250831c9e72615f9d2d2df834bc0eb0bbde5911a30fb34eeb6bfc2f0510.m3u8
+
+#EXTINF:-1 group-title="东森" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 东森戏剧台
+https://epg.pw/stream/26debdca4595ae8c1f124ce856699fecd565b49296823238645ff0b3e0e16f2b.ctv
