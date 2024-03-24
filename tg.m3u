@@ -9,6 +9,9 @@ https://epg.pw/stream/d8d3b1452b4420e92ad830b5845e4883d57bdf99128ab9e105ec4492e4
 #EXTINF:-1 group-title="綜合" tvg-id="CTS01" tvg-name="CTS Main" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png", 華視 720
 https://epg.pw/stream/eb2900b3b1e2b6016fe5090c1409f5561b06bd41a1f209aab97af62489321a11.ctv
 
+#EXTINF:-1 group-title="綜合" tvg-id="FTV01" tvg-name="FTV Main" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/320px-FTV_HD_Logo.svg.png", 民視 1080
+https://epg.pw/stream/12449a1ea995edd85839e1ff1a81d4badd4d74cb631d8b78dffb19ff26d5f9c6.ctv
+
 #EXTINF:-1 group-title="綜合" tvg-id="CTI04" tvg-name="CTI Asia" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/CTi_%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0.png/revision/latest?cb=20221203134351&path-prefix=vi", 中天亞洲
 https://epg.pw/stream/868493d0152ac00b0e11aed6eb73cd9d7c8db8452c47317caa3be715373f1937.m3u8
 
@@ -50,6 +53,9 @@ https://epg.pw/stream/1ec83e5bf16fdaae1c6b1b84152578c2559258ae4f9eac5c0ea8c960db
 
 #EXTINF:-1 group-title="新聞" tvg-id="ERA02" tvg-name="Era News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg", 年代新聞 1080
 https://epg.pw/stream/0a8db43d1ef30c5d322d3022c13a3fabb65b27ac248335094c79325c1b13fc2c.ctv
+
+#EXTINF:-1 group-title="新聞" tvg-id="NEXT02" tvg-name="Next News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Next_TV_News_Logo.png", 壹新聞 1080
+https://epg.pw/stream/2a8474f86f658ccbe71d1f6e6256cb018bd7179c330b94a9b6e3038e897e57bb.ctv
 
 #EXTINF:-1 group-title="財經" tvg-id="EBC03" tvg-name="EBC Financial News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png", 東森財經新聞 1080
 https://epg.pw/stream/67150bce9f57969c3eae71ae6db5cfe6fe54db9c47c33d328a535e16c46e1265.m3u8
@@ -141,11 +147,32 @@ https://epg.pw/stream/50bb6b9f825ed09acaa4be88a2e797047176ea041c43a7d41180c46a40
 #EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="", 吃米滴虫  720
 https://epg.pw/stream/c534894cecfdbd9a076204973e7d02934acb9050c93487c533212eee741ec19a.ctv
 
-#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="", 粤语电影  1080
+#EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="MISC" tvg-logo="", 粤语电影  1080
 https://epg.pw/stream/418c45ea466a59a6311c01ea0eaf3d0e8fbc48c3f6ce3d5377f0c4c7bf426372.ctv
 
-#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 荒野建造者 1080
+#EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 荒野建造者 1080
 https://epg.pw/stream/e06d88e9c92534ad75c0fafc99f6e7515ef3537b0c6f43dc0c2d5f0d129bc8ff.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="DOUYUM081" tvg-name="Douyu Moive 81" tvg-logo="", 斗鱼电影81  1080
+#https://epg.pw/stream/f4d7e0123b093148650f78cf0e7fe5eb82bb7fdc428cf4bcd3391fd17ad17274.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="DOUYUM105" tvg-name="Douyu Moive 105" tvg-logo="", 斗鱼电影105  1080
+#https://epg.pw/stream/402556ea1208190d78547fcf67ee768dccf4e919b58b463a8c5154d6a8e4afca.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="DOUYUM111" tvg-name="Douyu Moive 111" tvg-logo="", 斗鱼电影111  1080
+#https://epg.pw/stream/685bb756a43d6b8db39819faf41b94ead11efa00009d417a34342f7682b1cfb3.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="DOUYUM125" tvg-name="Douyu Moive 125" tvg-logo="", 斗鱼-鸡哥聊电影  720
+https://epg.pw/stream/8564caf0660bb593fea56597a712fe7a0c66f5952299d59d60abcc39819e22db.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="DOUYUM141" tvg-name="Douyu Moive 141" tvg-logo="", 斗鱼电影141  720
+#https://epg.pw/stream/de547d1c43085db5798692b6d6b0c3b8ce3762db544e21d038739dcdaebfc3d4.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="DOUYUM151" tvg-name="Douyu Moive 151" tvg-logo="", 斗鱼电影151  1080
+#https://epg.pw/stream/6032b47bd1a27caef67b501946453216b3c37ad85b0a9b25481d83a428749e5c.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="DOUYUM165" tvg-name="Douyu Moive 165" tvg-logo="", 斗鱼-谁语说电影  1080
+https://epg.pw/stream/832be702193bc377f1f48f3b330c0502114eae7c8ae0e8716994bb7a30b3c5eb.ctv
 
 #EXTINF:-1 group-title="影視" tvg-id="EBC04" tvg-name="EBC Moive" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/7/7f/%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1%E5%8F%B0%E5%8F%B0%E6%A8%99.jpg/revision/latest?cb=20200603061726&path-prefix=zh-tw", 東森電影台 1080
 https://epg.pw/stream/ae50aa5b72bfd67772dee5a4672bc19ed3f031ed436a43df779a78c353044fed.ctv
@@ -165,8 +192,11 @@ https://epg.pw/stream/c02e6d6bbf3f7d0192a6c760b9fb0552a72544771b4655f807b76313b3
 #EXTINF:-1 group-title="影視" tvg-id="LTV02" tvg-name="LTV Drama" tvg-logo="http://www.ltv.com.tw/wp-content/uploads/ltv-uploads/%E9%BE%8D%E8%8F%AF%E6%88%B2%E5%8A%87-300x161.jpg", 龍華戲劇 720
 https://epg.pw/stream/723325f83f679cf1fad0d08df3f01b54a2bb9bca256f1e0aaf372b968e890df0.ctv
 
-#EXTINF:-1 group-title="影視" tvg-id="D" tvg-name="LTV Drama" tvg-logo="http://www.ltv.com.tw/wp-content/uploads/ltv-uploads/%E9%BE%8D%E8%8F%AF%E6%88%B2%E5%8A%87-300x161.jpg", discovery theater 1080
-https://epg.pw/stream/2762e4db93d2f72948324d1490398396ee85cc323728490ab781da7427160536.ctv
+#EXTINF:-1 group-title="影視" tvg-id="" tvg-name="" tvg-logo="", Star 1080
+#https://epg.pw/stream/fe9d4a6c2b1c019097353252a0f47cd6e7ab98cd8b6175e5bd7158634c787363.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="" tvg-name="" tvg-logo="", HBO 1080
+#https://epg.pw/stream/43a594b79c4a6e1b2974acf73e72b19f5173584848e35b4173713e449560e7dc.ctv
 
 #EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 32 480
 https://epg.pw/stream/2e72b8a7fc1adcc198912392aa27586ce85e282cbd2ee4544d9cf398c0e68d97.m3u8
