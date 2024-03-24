@@ -30,19 +30,19 @@ https://epg.pw/stream/60f10eebcb0fb874361982d989cbb3b3c0156b66523d49b1d68905ccd9
 #EXTINF:-1 group-title="新聞" tvg-id="CTI01" tvg-name="CTI News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg", 中天新聞 1080
 https://epg.pw/stream/18ba44496c5abb30f4eeb5ebbf707f0dd699aed0b9f3594ac1cfff03c804d3fd.ctv
 
-#EXTINF:-1 group-title="新聞" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/Ustv_logo.jpg", 非凡新聞台 1080
+#EXTINF:-1 group-title="新聞" tvg-id="UBN02" tvg-name="UBN News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/Ustv_logo.jpg", 非凡新聞台 1080
 https://epg.pw/stream/bc21a65a0c9f898dd5df89233204a912fca1b47a7637de53d0d72e55e580d380.ctv
 
-#EXTINF:-1 group-title="新聞" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a6/MNEWS_logo.png", 鏡新聞
+#EXTINF:-1 group-title="新聞" tvg-id="MNEWS" tvg-name="M News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a6/MNEWS_logo.png", 鏡新聞 1080
 https://epg.pw/stream/1ec83e5bf16fdaae1c6b1b84152578c2559258ae4f9eac5c0ea8c960db35c7c6.m3u8
 
-#EXTINF:-1 group-title="財經" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png", 東森財經新聞 1080
+#EXTINF:-1 group-title="財經" tvg-id="EBC03" tvg-name="EBC Financial News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png", 東森財經新聞 1080
 https://epg.pw/stream/67150bce9f57969c3eae71ae6db5cfe6fe54db9c47c33d328a535e16c46e1265.m3u8
 
-#EXTINF:-1 group-title="財經" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png", 東森財經新聞 1080
+#EXTINF:-1 group-title="財經" tvg-id="EBC031" tvg-name="EBC Financial News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png", 東森財經新聞 1080
 https://epg.pw/stream/2be11f287d5f9ca99671eb5b655c31089799a63584e271d2d69dbdfc5ffaf2b5.m3u8
 
-#EXTINF:-1 group-title="財經" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png", 耀財財經 576
+#EXTINF:-1 group-title="財經" tvg-id="BS" tvg-name="BS Financial" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png", 耀財財經 576
 https://epg.pw/stream/3b013250831c9e72615f9d2d2df834bc0eb0bbde5911a30fb34eeb6bfc2f0510.m3u8
 
 #EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="http://www.tvniu.com/tvimg/img/gdsports.jpg", 广东体育 720
@@ -168,11 +168,11 @@ https://epg.pw/stream/0fd8018407512cea0d5bbfcbb2b243b6c6e0ae626c9c8396a1d42c907f
 #EXTINF:-1 group-title="A&E" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", A&E HD
 #https://epg.pw/stream/6f1fe4bc344240165c778a640b3fbfcbd8681ef31aeb9b6261360fac8a9e6c72.ctv
 
-EXTINF:-1 group-title="A&E" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png", AXN 1080
+#EXTINF:-1 group-title="A&E" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png", AXN 1080
 https://epg.pw/stream/4b961020c681997b48b918296c85070184ec2a7d80ebb533efa1576517903130.ctv
 
-EXTINF:-1 group-title="A&E" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png", 澳視澳門 720
+#EXTINF:-1 group-title="A&E" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png", 澳視澳門 720
 https://epg.pw/stream/4fe427079b7bb8f8ded79e4bdff30806e0b2c8a868c74250de861524f57abc8b.m3u8
 
-EXTINF:-1 group-title="A&E" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png", 澳亞衛視 480
+#EXTINF:-1 group-title="A&E" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png", 澳亞衛視 480
 https://epg.pw/stream/76ebf0b263bf419dac4edbcb1b3ee573b770caadcf1ae52c5f4b80aea21fc591.m3u8
