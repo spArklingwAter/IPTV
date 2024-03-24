@@ -36,6 +36,9 @@ https://epg.pw/stream/4fe427079b7bb8f8ded79e4bdff30806e0b2c8a868c74250de861524f5
 #EXTINF:-1 group-title="綜合" tvg-id="MASTV01" tvg-name="Macau Asia Satellite TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d6/MASTV.png", 澳亞衛視 480
 https://epg.pw/stream/76ebf0b263bf419dac4edbcb1b3ee573b770caadcf1ae52c5f4b80aea21fc591.m3u8
 
+#EXTINF:-1 group-title="新聞" tvg-id="GRTNEWS" tvg-name="GRT News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/35/GRT_News_Channel_Logo_2019.png", 广东新闻 576
+https://epg.pw/stream/3ee53d4a4053ba68b40413c2922ec913757a99702393e5cd9d9ca6481c47978d.m3u8
+
 #EXTINF:-1 group-title="新聞" tvg-id="TDMI" tvg-name="TDM Info" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg", 澳門資訊 720
 https://epg.pw/stream/8c76538fb148cc83050704809463d2df75fe942b980f475ca99ffef45deaa737.m3u8
 
