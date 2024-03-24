@@ -42,7 +42,7 @@ https://epg.pw/stream/18ba44496c5abb30f4eeb5ebbf707f0dd699aed0b9f3594ac1cfff03c8
 #EXTINF:-1 group-title="新聞" tvg-id="UBN02" tvg-name="UBN News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/Ustv_logo.jpg", 非凡新聞台 1080
 https://epg.pw/stream/bc21a65a0c9f898dd5df89233204a912fca1b47a7637de53d0d72e55e580d380.ctv
 
-#EXTINF:-1 group-title="新聞" tvg-id="MNEWS" tvg-name="M News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a6/MNEWS_logo.png", 鏡新聞 1080
+#EXTINF:-1 group-title="新聞" tvg-id="MNEWS" tvg-name="M News" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/915_pic_20220503151817.png", 鏡新聞 1080
 https://epg.pw/stream/7087b216e085944f5fcc429214944bf3e3c9eb89cb0598a48d45c4e5657c7024.ctv
 
 #EXTINF:-1 group-title="新聞" tvg-id="MNEWS" tvg-name="M News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a6/MNEWS_logo.png", 鏡新聞 1080
@@ -60,7 +60,7 @@ https://epg.pw/stream/3b013250831c9e72615f9d2d2df834bc0eb0bbde5911a30fb34eeb6bfc
 #EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="http://www.tvniu.com/tvimg/img/gdsports.jpg", 广东体育 720
 https://epg.pw/stream/8ae4657525dd77ddcde82baccb8de5570dcdee86d3ff5c60cfab62a0570bfca3.ctv
 
-#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 喜剧电影 1080
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="", 喜剧电影 1080
 https://epg.pw/stream/1cb3b7dfa4987889875c0efa1d7c0aaf2700e77b19e5a1407be48381f28058cb.ctv
 
 #EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 喜剧电影 1080
@@ -152,6 +152,9 @@ https://epg.pw/stream/4b961020c681997b48b918296c85070184ec2a7d80ebb533efa1576517
 
 #EXTINF:-1 group-title="影視" tvg-id="EBC05" tvg-name="EBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png", 东森戏剧台 1080
 https://epg.pw/stream/26debdca4595ae8c1f124ce856699fecd565b49296823238645ff0b3e0e16f2b.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="EBC05" tvg-name="EBC Drama" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png", ELTA影劇台 720
+https://epg.pw/stream/c02e6d6bbf3f7d0192a6c760b9fb0552a72544771b4655f807b76313b3c9a00a.ctv
 
 #EXTINF:-1 group-title="影視" tvg-id="LTV02" tvg-name="LTV Drama" tvg-logo="http://www.ltv.com.tw/wp-content/uploads/ltv-uploads/%E9%BE%8D%E8%8F%AF%E6%88%B2%E5%8A%87-300x161.jpg", 龍華戲劇 720
 https://epg.pw/stream/723325f83f679cf1fad0d08df3f01b54a2bb9bca256f1e0aaf372b968e890df0.ctv
