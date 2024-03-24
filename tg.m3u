@@ -1,31 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png", CGTN 576
-https://epg.pw/stream/5f04869499fad3233d1cbad2d29d36fa2afe6377a3ede6b0b91e58e3998c473b.m3u8
+#EXTINF:-1 group-title="綜合" tvg-id="CTV01" tvg-name="CTV Main" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/298px-China_TV_logo_since_19971030.svg.png", 中視 720
+https://epg.pw/stream/d8d3b1452b4420e92ad830b5845e4883d57bdf99128ab9e105ec4492e4532386.ctv
 
-#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png", CGTN 6
-https://epg.pw/stream/818865a0d120ab164b82d50accb8101611eeac92d440cd816592d909d4b51685.m3u8
+#EXTINF:-1 group-title="綜合" tvg-id="CTS01" tvg-name="CTS Main" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png", 華視 720
+https://epg.pw/stream/eb2900b3b1e2b6016fe5090c1409f5561b06bd41a1f209aab97af62489321a11.ctv
 
-#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png", CGTN 8
-https://epg.pw/stream/0d147ce40a3bd81f0f8e0a4c658c8f87544e06a0659013299324674dba4bbf53.m3u8
+#EXTINF:-1 group-title="綜合" tvg-id="CTI04" tvg-name="CTI Asia" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/CTi_%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0.png/revision/latest?cb=20221203134351&path-prefix=vi", 中天亞洲
+https://epg.pw/stream/868493d0152ac00b0e11aed6eb73cd9d7c8db8452c47317caa3be715373f1937.m3u8
 
-#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png", CGTN 9
-https://epg.pw/stream/17f2e97204f85c9c75746610f376125b774c9ee69be094d60498ea53913cc1de.m3u8
+#EXTINF:-1 group-title="綜合" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png", 三立Live台 1080
+https://epg.pw/stream/b3b0bec1c9a7528f5391ba053b2a9badba0a28d1b29dc130719c5374b1e51c25.ctv
 
-#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 32
-https://epg.pw/stream/2e72b8a7fc1adcc198912392aa27586ce85e282cbd2ee4544d9cf398c0e68d97.m3u8
-
-#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 33 720
-https://epg.pw/stream/6923d4d4813b6d77a7f00607a9d64e570e06b01d0a1db7ca3a7c29e04d6c205a.m3u8
-
-#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 33
-https://epg.pw/stream/7ac2b477ebb7aab968e3ccd99d900060f209a1eb074e6ce945b91571c997ce95.m3u8
-
-#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 34 720
-https://epg.pw/stream/2f41dcfe94b387f363249bd732d8791043db8c88e89c4fa7ce55998abe67c630.m3u8
-
-#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 34
-https://epg.pw/stream/0fd8018407512cea0d5bbfcbb2b243b6c6e0ae626c9c8396a1d42c907f45464f.m3u8
+#EXTINF:-1 group-title="綜合" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="", 華藝MBC綜合台 1080
+https://epg.pw/stream/9174278ef54603e412aa31d06507e17d066ae7882c1a6a29b61202737d194dca.ctv
 
 #EXTINF:-1 group-title="新聞" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg", 澳門資訊 720
 https://epg.pw/stream/8c76538fb148cc83050704809463d2df75fe942b980f475ca99ffef45deaa737.m3u8
@@ -33,23 +21,14 @@ https://epg.pw/stream/8c76538fb148cc83050704809463d2df75fe942b980f475ca99ffef45d
 #EXTINF:-1 group-title="新聞" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png", 三立新聞台 1080
 https://epg.pw/stream/a9a2e501913c98efed2e214012ea74e4d053820fed876ce21030473ee5ee9a34.ctv
 
-#EXTINF:-1 group-title="中視" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/298px-China_TV_logo_since_19971030.svg.png", 中視 720
-https://epg.pw/stream/d8d3b1452b4420e92ad830b5845e4883d57bdf99128ab9e105ec4492e4532386.ctv
-
-#EXTINF:-1 group-title="新" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png", 中視新聞 1080
+#EXTINF:-1 group-title="新聞" tvg-id="CTV02" tvg-name="CTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png", 中視新聞 1080
 https://epg.pw/stream/65e0e964c399159353181cd261475279b7685cbf55df0b37ac20e7e581fc5eec.ctv
 
-#EXTINF:-1 group-title="新聞" tvg-id="CTS" tvg-name="CTS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png", 華視新聞資訊 1080
+#EXTINF:-1 group-title="新聞" tvg-id="CTS03" tvg-name="CTS News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png", 華視新聞資訊 1080
 https://epg.pw/stream/60f10eebcb0fb874361982d989cbb3b3c0156b66523d49b1d68905ccd9cb4c09.m3u8
 
-#EXTINF:-1 group-title="華視" tvg-id="CTS" tvg-name="CTS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png", 華視 720
-https://epg.pw/stream/eb2900b3b1e2b6016fe5090c1409f5561b06bd41a1f209aab97af62489321a11.ctv
-
-#EXTINF:-1 group-title="中天" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg", 中天新聞 1080
+#EXTINF:-1 group-title="新聞" tvg-id="CTI01" tvg-name="CTI News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg", 中天新聞 1080
 https://epg.pw/stream/18ba44496c5abb30f4eeb5ebbf707f0dd699aed0b9f3594ac1cfff03c804d3fd.ctv
-
-#EXTINF:-1 group-title="中天" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://s.rfi.fr/media/display/3daac664-176b-11eb-8d3a-005056bf87d6/w:980/p:16x9/zt.webp", 中天亞洲
-https://epg.pw/stream/868493d0152ac00b0e11aed6eb73cd9d7c8db8452c47317caa3be715373f1937.m3u8
 
 #EXTINF:-1 group-title="新聞" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/Ustv_logo.jpg", 非凡新聞台 1080
 https://epg.pw/stream/bc21a65a0c9f898dd5df89233204a912fca1b47a7637de53d0d72e55e580d380.ctv
@@ -153,17 +132,38 @@ https://epg.pw/stream/418c45ea466a59a6311c01ea0eaf3d0e8fbc48c3f6ce3d5377f0c4c7bf
 #EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 荒野建造者 1080
 https://epg.pw/stream/e06d88e9c92534ad75c0fafc99f6e7515ef3537b0c6f43dc0c2d5f0d129bc8ff.ctv
 
-#EXTINF:-1 group-title="綜合" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png", 三立Live台 1080
-https://epg.pw/stream/b3b0bec1c9a7528f5391ba053b2a9badba0a28d1b29dc130719c5374b1e51c25.ctv
-
-#EXTINF:-1 group-title="綜合" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png", 东森戏剧台 1080
+#EXTINF:-1 group-title="影視" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png", 东森戏剧台 1080
 https://epg.pw/stream/26debdca4595ae8c1f124ce856699fecd565b49296823238645ff0b3e0e16f2b.ctv
-
-#EXTINF:-1 group-title="綜合" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="", 華藝MBC綜合台 1080
-https://epg.pw/stream/9174278ef54603e412aa31d06507e17d066ae7882c1a6a29b61202737d194dca.ctv
 
 #EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV 8K
 #https://epg.pw/stream/f48875235ce63399ced8a8f27167ceea2fda31675f2b15a967a49f1ec6bba9f7.m3u8
+
+#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png", CGTN 576
+https://epg.pw/stream/5f04869499fad3233d1cbad2d29d36fa2afe6377a3ede6b0b91e58e3998c473b.m3u8
+
+#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png", CGTN 6
+https://epg.pw/stream/818865a0d120ab164b82d50accb8101611eeac92d440cd816592d909d4b51685.m3u8
+
+#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png", CGTN 8
+https://epg.pw/stream/0d147ce40a3bd81f0f8e0a4c658c8f87544e06a0659013299324674dba4bbf53.m3u8
+
+#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png", CGTN 9
+https://epg.pw/stream/17f2e97204f85c9c75746610f376125b774c9ee69be094d60498ea53913cc1de.m3u8
+
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 32 480
+https://epg.pw/stream/2e72b8a7fc1adcc198912392aa27586ce85e282cbd2ee4544d9cf398c0e68d97.m3u8
+
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 33 720
+https://epg.pw/stream/6923d4d4813b6d77a7f00607a9d64e570e06b01d0a1db7ca3a7c29e04d6c205a.m3u8
+
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 33 480
+https://epg.pw/stream/7ac2b477ebb7aab968e3ccd99d900060f209a1eb074e6ce945b91571c997ce95.m3u8
+
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 34 720
+https://epg.pw/stream/2f41dcfe94b387f363249bd732d8791043db8c88e89c4fa7ce55998abe67c630.m3u8
+
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 34 576
+https://epg.pw/stream/0fd8018407512cea0d5bbfcbb2b243b6c6e0ae626c9c8396a1d42c907f45464f.m3u8
 
 #EXTINF:-1 group-title="A&E" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", A&E HD
 #https://epg.pw/stream/6f1fe4bc344240165c778a640b3fbfcbd8681ef31aeb9b6261360fac8a9e6c72.ctv
