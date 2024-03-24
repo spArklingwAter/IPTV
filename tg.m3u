@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="綜合" tvg-id="GRTGBATV" tvg-name="GRT GBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b6/GRT_GBA_TV.jpg", 广东大湾区卫视 576
+https://epg.pw/stream/c065ebfda5574c6f3a9a99827d590b3c4a7a01bc84c8027b9d679df98767f645.m3u8
+
 #EXTINF:-1 group-title="綜合" tvg-id="TTV01" tvg-name="TTV Main" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png", 台視 720
 https://epg.pw/stream/504675e2d89ccd03cb5f56f1653f4babe449aaf10fe6b1e2e8fc40704309794a.ctv
 
