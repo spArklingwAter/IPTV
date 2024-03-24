@@ -12,6 +12,9 @@ https://epg.pw/stream/eb2900b3b1e2b6016fe5090c1409f5561b06bd41a1f209aab97af62489
 #EXTINF:-1 group-title="綜合" tvg-id="FTV01" tvg-name="FTV Main" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/320px-FTV_HD_Logo.svg.png", 民視 1080
 https://epg.pw/stream/12449a1ea995edd85839e1ff1a81d4badd4d74cb631d8b78dffb19ff26d5f9c6.ctv
 
+#EXTINF:-1 group-title="綜合" tvg-id="FTV01" tvg-name="FTV Main" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/320px-FTV_HD_Logo.svg.png", 民視 1080 geo-limited
+https://epg.pw/stream/6765c795b36ffcd72d5a56790d65c785bfec9a86987ba997bd2b4f99be880105.m3u8
+
 #EXTINF:-1 group-title="綜合" tvg-id="CTI04" tvg-name="CTI Asia" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/CTi_%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0.png/revision/latest?cb=20221203134351&path-prefix=vi", 中天亞洲
 https://epg.pw/stream/868493d0152ac00b0e11aed6eb73cd9d7c8db8452c47317caa3be715373f1937.m3u8
 
@@ -66,13 +69,16 @@ https://epg.pw/stream/2be11f287d5f9ca99671eb5b655c31089799a63584e271d2d69dbdfc5f
 #EXTINF:-1 group-title="財經" tvg-id="BS" tvg-name="BS Financial" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png", 耀財財經 576
 https://epg.pw/stream/3b013250831c9e72615f9d2d2df834bc0eb0bbde5911a30fb34eeb6bfc2f0510.m3u8
 
+#EXTINF:-1 group-title="資訊" tvg-id="APTW" tvg-name="Animal Planet TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png", 動物星球 1080
+https://epg.pw/stream/a14d08191c32e9211726ee77752c8888e6b5f888f88cc119e7697bb63dd8c314.m3u8
+
 #EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="http://www.tvniu.com/tvimg/img/gdsports.jpg", 广东体育 720
 https://epg.pw/stream/8ae4657525dd77ddcde82baccb8de5570dcdee86d3ff5c60cfab62a0570bfca3.ctv
 
-#EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 喜剧电影　::斗鱼 1080
+#EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 喜剧电影　:斗鱼 1080
 https://epg.pw/stream/1cb3b7dfa4987889875c0efa1d7c0aaf2700e77b19e5a1407be48381f28058cb.ctv
 
-#EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 喜剧电影　::斗鱼-1080
+#EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 喜剧电影　\斗鱼-1080
 https://epg.pw/stream/a7ff87dddea26cce3ca8b2a499f74af0538312ec0d22eec23ad2e7006d0ed1c0.ctv
 
 #EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 译制国语 ::斗鱼 1080
