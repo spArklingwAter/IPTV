@@ -15,16 +15,16 @@ https://epg.pw/stream/12449a1ea995edd85839e1ff1a81d4badd4d74cb631d8b78dffb19ff26
 #EXTINF:-1 group-title="綜合" tvg-id="CTI04" tvg-name="CTI Asia" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/CTi_%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0.png/revision/latest?cb=20221203134351&path-prefix=vi", 中天亞洲
 https://epg.pw/stream/868493d0152ac00b0e11aed6eb73cd9d7c8db8452c47317caa3be715373f1937.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png", 三立Live台 1080
+#EXTINF:-1 group-title="綜合" tvg-id="SET01" tvg-name="SET Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png", 三立Live台 1080
 https://epg.pw/stream/b3b0bec1c9a7528f5391ba053b2a9badba0a28d1b29dc130719c5374b1e51c25.ctv
 
-#EXTINF:-1 group-title="綜合" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://today-obs.line-scdn.net/0hyxLFjXgqJldxPw3J4ldZAEtpJThCUzVUFQl3VDJReGMJWGkJGVs-ZlNofTNdDWEJHwxsNl09PWYPDWVTSVo-/w580", 華藝MBC綜合台 1080
+#EXTINF:-1 group-title="綜合" tvg-id="DAE03" tvg-name="Dragon Art MBC" tvg-logo="https://today-obs.line-scdn.net/0hyxLFjXgqJldxPw3J4ldZAEtpJThCUzVUFQl3VDJReGMJWGkJGVs-ZlNofTNdDWEJHwxsNl09PWYPDWVTSVo-/w580", 華藝MBC綜合台 1080
 https://epg.pw/stream/9174278ef54603e412aa31d06507e17d066ae7882c1a6a29b61202737d194dca.ctv
 
 #EXTINF:-1 group-title="綜合" tvg-id="TDM01" tvg-name="TDM Ou Mun" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png", 澳視澳門 720
 https://epg.pw/stream/4fe427079b7bb8f8ded79e4bdff30806e0b2c8a868c74250de861524f57abc8b.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="MASTV01" tvg-name="Macau Asia Satellite TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png", 澳亞衛視 480
+#EXTINF:-1 group-title="綜合" tvg-id="MASTV01" tvg-name="Macau Asia Satellite TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d6/MASTV.png", 澳亞衛視 480
 https://epg.pw/stream/76ebf0b263bf419dac4edbcb1b3ee573b770caadcf1ae52c5f4b80aea21fc591.m3u8
 
 #EXTINF:-1 group-title="新聞" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg", 澳門資訊 720
