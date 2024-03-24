@@ -153,6 +153,9 @@ https://epg.pw/stream/ae50aa5b72bfd67772dee5a4672bc19ed3f031ed436a43df779a78c353
 #EXTINF:-1 group-title="影視" tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png", AXN 1080
 https://epg.pw/stream/4b961020c681997b48b918296c85070184ec2a7d80ebb533efa1576517903130.ctv
 
+#EXTINF:-1 group-title="影視" tvg-id="HBOF" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6a/HBO_Family_Asia_logo.gif", HBO溫馨家庭 1080
+https://epg.pw/stream/34602f3becc47a60157947ca44b42dcec12e0ffc398c5abf6c6b3e8ccb4d89d1.ctv
+
 #EXTINF:-1 group-title="影視" tvg-id="EBC05" tvg-name="EBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png", 东森戏剧台 1080
 https://epg.pw/stream/26debdca4595ae8c1f124ce856699fecd565b49296823238645ff0b3e0e16f2b.ctv
 
