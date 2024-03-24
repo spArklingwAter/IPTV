@@ -43,6 +43,9 @@ https://epg.pw/stream/18ba44496c5abb30f4eeb5ebbf707f0dd699aed0b9f3594ac1cfff03c8
 https://epg.pw/stream/bc21a65a0c9f898dd5df89233204a912fca1b47a7637de53d0d72e55e580d380.ctv
 
 #EXTINF:-1 group-title="新聞" tvg-id="MNEWS" tvg-name="M News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a6/MNEWS_logo.png", 鏡新聞 1080
+https://epg.pw/stream/7087b216e085944f5fcc429214944bf3e3c9eb89cb0598a48d45c4e5657c7024.ctv
+
+#EXTINF:-1 group-title="新聞" tvg-id="MNEWS" tvg-name="M News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a6/MNEWS_logo.png", 鏡新聞 1080
 https://epg.pw/stream/1ec83e5bf16fdaae1c6b1b84152578c2559258ae4f9eac5c0ea8c960db35c7c6.m3u8
 
 #EXTINF:-1 group-title="財經" tvg-id="EBC03" tvg-name="EBC Financial News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png", 東森財經新聞 1080
@@ -141,11 +144,17 @@ https://epg.pw/stream/418c45ea466a59a6311c01ea0eaf3d0e8fbc48c3f6ce3d5377f0c4c7bf
 #EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 荒野建造者 1080
 https://epg.pw/stream/e06d88e9c92534ad75c0fafc99f6e7515ef3537b0c6f43dc0c2d5f0d129bc8ff.ctv
 
-#EXTINF:-1 group-title="影視" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png", 东森戏剧台 1080
-https://epg.pw/stream/26debdca4595ae8c1f124ce856699fecd565b49296823238645ff0b3e0e16f2b.ctv
+#EXTINF:-1 group-title="影視" tvg-id="EBC04" tvg-name="EBC Moive" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/7/7f/%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1%E5%8F%B0%E5%8F%B0%E6%A8%99.jpg/revision/latest?cb=20200603061726&path-prefix=zh-tw", 東森電影台 1080
+https://epg.pw/stream/ae50aa5b72bfd67772dee5a4672bc19ed3f031ed436a43df779a78c353044fed.ctv
 
 #EXTINF:-1 group-title="影視" tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png", AXN 1080
 https://epg.pw/stream/4b961020c681997b48b918296c85070184ec2a7d80ebb533efa1576517903130.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="EBC05" tvg-name="EBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png", 东森戏剧台 1080
+https://epg.pw/stream/26debdca4595ae8c1f124ce856699fecd565b49296823238645ff0b3e0e16f2b.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="LTV02" tvg-name="LTV Drama" tvg-logo="http://www.ltv.com.tw/wp-content/uploads/ltv-uploads/%E9%BE%8D%E8%8F%AF%E6%88%B2%E5%8A%87-300x161.jpg", 龍華戲劇 720
+https://epg.pw/stream/723325f83f679cf1fad0d08df3f01b54a2bb9bca256f1e0aaf372b968e890df0.ctv
 
 #EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 32 480
 https://epg.pw/stream/2e72b8a7fc1adcc198912392aa27586ce85e282cbd2ee4544d9cf398c0e68d97.m3u8
