@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="綜合" tvg-id="GRTGBATV" tvg-name="GRT GBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b6/GRT_GBA_TV.jpg", 广东大湾区卫视 576
 https://epg.pw/stream/c065ebfda5574c6f3a9a99827d590b3c4a7a01bc84c8027b9d679df98767f645.m3u8
 
+#EXTINF:-1 group-title="綜合" tvg-id="SZTV" tvg-name="SZ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/SZSTV_logo.png", 深圳卫视 576
+https://epg.pw/stream/e4707846a350e75313640d6095b09619f8417ff96f1417664ff8fff6924f1ea1.m3u8
+
 #EXTINF:-1 group-title="綜合" tvg-id="HNSTV" tvg-name="Hunan STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png", 湖南卫视 576
 https://epg.pw/stream/98760919199aeb391854e9698f0ec090972c1f03879d4fd98943994d7812205d.m3u8
 
