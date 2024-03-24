@@ -42,13 +42,22 @@ https://epg.pw/stream/1ec83e5bf16fdaae1c6b1b84152578c2559258ae4f9eac5c0ea8c960db
 #EXTINF:-1 group-title="財經" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png", 耀財財經
 https://epg.pw/stream/3b013250831c9e72615f9d2d2df834bc0eb0bbde5911a30fb34eeb6bfc2f0510.m3u8
 
-#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 神乐剧场
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 喜剧电影 1080
+https://epg.pw/stream/1cb3b7dfa4987889875c0efa1d7c0aaf2700e77b19e5a1407be48381f28058cb.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 译制国语 1080
+https://epg.pw/stream/3a3250f1ede11c31eb32410f852abd95de2abec8c1daebdeecf62260f2e114e2.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 豆瓣高分 1080
+https://epg.pw/stream/4621c62dcd536abfe8ee7b1292672c31bd770898c39002e168c5613d662a9bf6.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 神乐剧场 540
 https://epg.pw/stream/071742ce7fb6cb93bfa069eb1914cd6eee02fbf4bf5ba8749eed03fa8b6875d8.m3u8
 
-#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 神乐剧院
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 神乐剧院 540
 https://epg.pw/stream/d01056933ac5cbf667dbbc61288a0fd9fe66e18c6f667f258c01230e67b25be5.m3u8
 
-#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 凌儿影院 720
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 凌儿影院 720
 https://epg.pw/stream/25f918bdbb7d362d126a635d689943fe9b54eb6987a422e670552b1ebe3646e1.ctv
 
 #EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 星爷影院 720
