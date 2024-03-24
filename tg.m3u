@@ -39,34 +39,49 @@ https://epg.pw/stream/868493d0152ac00b0e11aed6eb73cd9d7c8db8452c47317caa3be71537
 #EXTINF:-1 group-title="鏡電視" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a6/MNEWS_logo.png", 鏡新聞
 https://epg.pw/stream/1ec83e5bf16fdaae1c6b1b84152578c2559258ae4f9eac5c0ea8c960db35c7c6.m3u8
 
-#EXTINF:-1 group-title="耀財" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png", 耀財財經
+#EXTINF:-1 group-title="財經" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png", 耀財財經
 https://epg.pw/stream/3b013250831c9e72615f9d2d2df834bc0eb0bbde5911a30fb34eeb6bfc2f0510.m3u8
 
-#EXTINF:-1 group-title="神乐" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 神乐剧场
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 神乐剧场
 https://epg.pw/stream/071742ce7fb6cb93bfa069eb1914cd6eee02fbf4bf5ba8749eed03fa8b6875d8.m3u8
 
-#EXTINF:-1 group-title="神乐" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 神乐剧院
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 神乐剧院
 https://epg.pw/stream/d01056933ac5cbf667dbbc61288a0fd9fe66e18c6f667f258c01230e67b25be5.m3u8
 
-#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 凌儿影院 720
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 凌儿影院 720
 https://epg.pw/stream/25f918bdbb7d362d126a635d689943fe9b54eb6987a422e670552b1ebe3646e1.ctv
 
-#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 星爷影院 720
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 星爷影院 720
 https://epg.pw/stream/e649cd7122314ed3e1ef203303e9bf11294f53e5a56b3d2e955903c823324d9d.ctv
 
-#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 下饭神剧 720
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 下饭神剧 720
 https://epg.pw/stream/ef229c91b3b3bd658f1a4d86d84fa12fda78298dafbad463e739c12f6c2e8709.ctv
 
-#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 小u*鬼片 720
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 小u*鬼片 720
 https://epg.pw/stream/94568d0f9876b83d86240d7334a024b98add6fd4df0e24757a27c391413197df.ctv
 
-#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 动漫直播 720
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 动漫直播 720
 https://epg.pw/stream/e669e294c170c38a7c3b7a1492066c626b44a6a38e4c1fe00ca77b003f62c576.ctv
 
-#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 漫威影片 1080
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 漫威影片 1080
 https://epg.pw/stream/22650b9ded18c92c8515338292e4589e0b2b99d7989a41fddda7b8320f427bc7.ctv
 
-#EXTINF:-1 group-title="MISC" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", 荒野建造者 1080
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 霍格影片 1080
+https://epg.pw/stream/75438fe85459782a5f45ca05770a168d9fb7b59131421791175e1627fee5b7ec.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 惊悚影院 1080
+https://epg.pw/stream/66b55492b599f16e770d25a1fc3754f0072eac0211c84fb0cd5a6c09a358a901.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 怡寳影院 720
+https://epg.pw/stream/6c3158427812c00740596057ac94f14a46b7251f7033c676fe670091e8d5b932.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 悬疑犯罪 1080
+https://epg.pw/stream/50bb6b9f825ed09acaa4be88a2e797047176ea041c43a7d41180c46a405b60f5.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 粤语电影 1080
+https://epg.pw/stream/418c45ea466a59a6311c01ea0eaf3d0e8fbc48c3f6ce3d5377f0c4c7bf426372.ctv
+
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 荒野建造者 1080
 https://epg.pw/stream/e06d88e9c92534ad75c0fafc99f6e7515ef3537b0c6f43dc0c2d5f0d129bc8ff.ctv
 
 #EXTINF:-1 group-title="东森" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png", 东森戏剧台
