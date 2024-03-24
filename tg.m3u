@@ -27,13 +27,13 @@ https://epg.pw/stream/2f41dcfe94b387f363249bd732d8791043db8c88e89c4fa7ce55998abe
 #EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 34
 https://epg.pw/stream/0fd8018407512cea0d5bbfcbb2b243b6c6e0ae626c9c8396a1d42c907f45464f.m3u8
 
-#EXTINF:-1 group-title="新聞" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png", 三立新聞台
+#EXTINF:-1 group-title="新聞" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png", 三立新聞台 1080
 https://epg.pw/stream/a9a2e501913c98efed2e214012ea74e4d053820fed876ce21030473ee5ee9a34.ctv
 
-#EXTINF:-1 group-title="中視" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/298px-China_TV_logo_since_19971030.svg.png", 中視
+#EXTINF:-1 group-title="中視" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/298px-China_TV_logo_since_19971030.svg.png", 中視 720
 https://epg.pw/stream/d8d3b1452b4420e92ad830b5845e4883d57bdf99128ab9e105ec4492e4532386.ctv
 
-#EXTINF:-1 group-title="華視" tvg-id="CTS" tvg-name="CTS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png", 華視
+#EXTINF:-1 group-title="華視" tvg-id="CTS" tvg-name="CTS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png", 華視 720
 https://epg.pw/stream/eb2900b3b1e2b6016fe5090c1409f5561b06bd41a1f209aab97af62489321a11.ctv
 
 #EXTINF:-1 group-title="中天" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://s.rfi.fr/media/display/3daac664-176b-11eb-8d3a-005056bf87d6/w:980/p:16x9/zt.webp", 中天亞洲
@@ -42,8 +42,11 @@ https://epg.pw/stream/868493d0152ac00b0e11aed6eb73cd9d7c8db8452c47317caa3be71537
 #EXTINF:-1 group-title="新聞" tvg-id="CTV" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a6/MNEWS_logo.png", 鏡新聞
 https://epg.pw/stream/1ec83e5bf16fdaae1c6b1b84152578c2559258ae4f9eac5c0ea8c960db35c7c6.m3u8
 
-#EXTINF:-1 group-title="財經" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png", 耀財財經
+#EXTINF:-1 group-title="財經" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png", 耀財財經 576
 https://epg.pw/stream/3b013250831c9e72615f9d2d2df834bc0eb0bbde5911a30fb34eeb6bfc2f0510.m3u8
+
+#EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="http://www.tvniu.com/tvimg/img/gdsports.jpg", 广东体育 720
+https://epg.pw/stream/8ae4657525dd77ddcde82baccb8de5570dcdee86d3ff5c60cfab62a0570bfca3.ctv
 
 #EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 喜剧电影 1080
 https://epg.pw/stream/1cb3b7dfa4987889875c0efa1d7c0aaf2700e77b19e5a1407be48381f28058cb.ctv
@@ -129,10 +132,10 @@ https://epg.pw/stream/418c45ea466a59a6311c01ea0eaf3d0e8fbc48c3f6ce3d5377f0c4c7bf
 #EXTINF:-1 group-title="影視" tvg-id="MISC" tvg-name="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/Douyu_logo.png", 荒野建造者 1080
 https://epg.pw/stream/e06d88e9c92534ad75c0fafc99f6e7515ef3537b0c6f43dc0c2d5f0d129bc8ff.ctv
 
-#EXTINF:-1 group-title="綜合" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png", 三立台灣台 1080
+#EXTINF:-1 group-title="綜合" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png", 三立Live台 1080
 https://epg.pw/stream/b3b0bec1c9a7528f5391ba053b2a9badba0a28d1b29dc130719c5374b1e51c25.ctv
 
-#EXTINF:-1 group-title="綜合" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png", 东森戏剧台
+#EXTINF:-1 group-title="綜合" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png", 东森戏剧台 1080
 https://epg.pw/stream/26debdca4595ae8c1f124ce856699fecd565b49296823238645ff0b3e0e16f2b.ctv
 
 #EXTINF:-1 group-title="綜合" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="", 華藝MBC綜合台 1080
