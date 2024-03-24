@@ -9,6 +9,9 @@ https://epg.pw/stream/e4707846a350e75313640d6095b09619f8417ff96f1417664ff8fff692
 #EXTINF:-1 group-title="綜合" tvg-id="HNSTV" tvg-name="Hunan STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png", 湖南卫视 576
 https://epg.pw/stream/98760919199aeb391854e9698f0ec090972c1f03879d4fd98943994d7812205d.m3u8
 
+#EXTINF:-1 group-title="綜合" tvg-id="HBTV" tvg-name="Hubei STV" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123343786.jpg", 湖北卫视 576
+https://epg.pw/stream/49cc9ebf993e11022d8267050fcb838287ecb0537db193396d55c45227429b44.m3u8
+
 #EXTINF:-1 group-title="綜合" tvg-id="BRTV" tvg-name="BJ STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg", 北京卫视 576
 https://epg.pw/stream/ee7dbd9683ac6cf88aba32e1143668af708da41d4f9934eb8cf218a7b9a79710.m3u8
 
