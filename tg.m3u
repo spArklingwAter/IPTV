@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="綜合" tvg-id="GRTGBATV" tvg-name="GRT GBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b6/GRT_GBA_TV.jpg", 广东大湾区卫视 576
 https://epg.pw/stream/c065ebfda5574c6f3a9a99827d590b3c4a7a01bc84c8027b9d679df98767f645.m3u8
 
+#EXTINF:-1 group-title="綜合" tvg-id="HNSTV" tvg-name="Hunan STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png", 湖南卫视 576
+https://epg.pw/stream/98760919199aeb391854e9698f0ec090972c1f03879d4fd98943994d7812205d.m3u8
+
 #EXTINF:-1 group-title="綜合" tvg-id="GXSTV" tvg-name="GX STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/LOGOGuangxiTV.jpg", 广西卫视 1080
 https://epg.pw/stream/fd42bf7648f41c0bc4f2824aa17b174b4588405985baa28a887022e04791489e.m3u8
 
@@ -80,6 +83,12 @@ https://epg.pw/stream/3b013250831c9e72615f9d2d2df834bc0eb0bbde5911a30fb34eeb6bfc
 
 #EXTINF:-1 group-title="資訊" tvg-id="APTW" tvg-name="Animal Planet TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png", 動物星球 1080
 https://epg.pw/stream/a14d08191c32e9211726ee77752c8888e6b5f888f88cc119e7697bb63dd8c314.m3u8
+
+#EXTINF:-1 group-title="運動" tvg-id="CCTV5p" tvg-name="CCTV-5+" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png", CCTV5+ 1080
+https://epg.pw/stream/88e9b33036aac3ca28574e9ab711afd7a87663391812a08c9fbb2afd4e399217.m3u8
+
+#EXTINF:-1 group-title="運動" tvg-id="CCTV16" tvg-name="CCTV-16" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/39/CCTV-16.png", CCTV16 奥林匹克 1080
+https://epg.pw/stream/71dfb5f72cf52de73da7e18140080b40d2d4f4f21ad7af90a3e3572dd28a3e67.m3u8
 
 #EXTINF:-1 group-title="運動" tvg-id="GDSP" tvg-name="GD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/Guangdong_Sports_2019.png", 广东体育 720
 https://epg.pw/stream/8ae4657525dd77ddcde82baccb8de5570dcdee86d3ff5c60cfab62a0570bfca3.ctv
