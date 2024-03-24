@@ -6,6 +6,12 @@ https://epg.pw/stream/c065ebfda5574c6f3a9a99827d590b3c4a7a01bc84c8027b9d679df987
 #EXTINF:-1 group-title="綜合" tvg-id="HNSTV" tvg-name="Hunan STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png", 湖南卫视 576
 https://epg.pw/stream/98760919199aeb391854e9698f0ec090972c1f03879d4fd98943994d7812205d.m3u8
 
+#EXTINF:-1 group-title="綜合" tvg-id="BRTV" tvg-name="BJ STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg", 北京卫视 576
+https://epg.pw/stream/ee7dbd9683ac6cf88aba32e1143668af708da41d4f9934eb8cf218a7b9a79710.m3u8
+
+#EXTINF:-1 group-title="綜合" tvg-id="JSTV" tvg-name="JS STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png", 江苏卫视 576
+https://epg.pw/stream/3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77.m3u8
+
 #EXTINF:-1 group-title="綜合" tvg-id="GXSTV" tvg-name="GX STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/LOGOGuangxiTV.jpg", 广西卫视 1080
 https://epg.pw/stream/fd42bf7648f41c0bc4f2824aa17b174b4588405985baa28a887022e04791489e.m3u8
 
