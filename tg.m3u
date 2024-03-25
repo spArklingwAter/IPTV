@@ -18,11 +18,8 @@ https://epg.pw/stream/49cc9ebf993e11022d8267050fcb838287ecb0537db193396d55c45227
 #EXTINF:-1 group-title="綜合" tvg-id="BRTV" tvg-name="BJ STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg", 北京卫视 576
 https://epg.pw/stream/ee7dbd9683ac6cf88aba32e1143668af708da41d4f9934eb8cf218a7b9a79710.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="JSTV" tvg-name="JS STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png", 江苏卫视 1080
-https://epg.pw/stream/4766e2f07114295179bf992a944d1464fc9a832f4aea144a5c251ee4d5796a50.m3u8
-https://epg.pw/stream/3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77.m3u8
-
 #EXTINF:-1 group-title="綜合" tvg-id="JSTV" tvg-name="JS STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png", 江苏卫视 576
+https://epg.pw/stream/4766e2f07114295179bf992a944d1464fc9a832f4aea144a5c251ee4d5796a50.m3u8
 https://epg.pw/stream/3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="GXSTV" tvg-name="GX STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/LOGOGuangxiTV.jpg", 广西卫视 1080
@@ -42,8 +39,6 @@ https://epg.pw/stream/eb2900b3b1e2b6016fe5090c1409f5561b06bd41a1f209aab97af62489
 
 #EXTINF:-1 group-title="綜合" tvg-id="FTV01" tvg-name="FTV Main" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/320px-FTV_HD_Logo.svg.png", 民視 1080
 https://epg.pw/stream/12449a1ea995edd85839e1ff1a81d4badd4d74cb631d8b78dffb19ff26d5f9c6.ctv
-
-#EXTINF:-1 group-title="綜合" tvg-id="FTV011" tvg-name="FTV Main" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/320px-FTV_HD_Logo.svg.png", 民視 1080
 https://epg.pw/stream/6765c795b36ffcd72d5a56790d65c785bfec9a86987ba997bd2b4f99be880105.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="CTI04" tvg-name="CTI Asia" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/CTi_%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0.png/revision/latest?cb=20221203134351&path-prefix=vi", 中天亞洲
@@ -99,8 +94,6 @@ https://epg.pw/stream/81f5ffef845e8ea1bb69389d2413f8d7869efc69fbbeffd9b5cf200a85
 
 #EXTINF:-1 group-title="財經" tvg-id="EBC03" tvg-name="EBC Financial News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png", 東森財經新聞 1080
 https://epg.pw/stream/67150bce9f57969c3eae71ae6db5cfe6fe54db9c47c33d328a535e16c46e1265.m3u8
-
-#EXTINF:-1 group-title="財經" tvg-id="EBC031" tvg-name="EBC Financial News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png", 東森財經新聞 1080
 https://epg.pw/stream/2be11f287d5f9ca99671eb5b655c31089799a63584e271d2d69dbdfc5ffaf2b5.m3u8
 
 #EXTINF:-1 group-title="財經" tvg-id="BS" tvg-name="BS Financial" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png", 耀財財經 576
@@ -123,8 +116,6 @@ https://epg.pw/stream/004e2492652cf112e5140d68e99832dfcae8c3db8123c328ff25872004
 
 #EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 喜剧电影 1080　斗鱼
 https://epg.pw/stream/1cb3b7dfa4987889875c0efa1d7c0aaf2700e77b19e5a1407be48381f28058cb.ctv
-
-#EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 喜剧电影 1080　斗鱼
 https://epg.pw/stream/a7ff87dddea26cce3ca8b2a499f74af0538312ec0d22eec23ad2e7006d0ed1c0.ctv
 
 #EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 译制国语 1080　斗鱼
@@ -132,8 +123,6 @@ https://epg.pw/stream/3a3250f1ede11c31eb32410f852abd95de2abec8c1daebdeecf62260f2
 
 #EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 豆瓣高分 1080　斗鱼
 https://epg.pw/stream/4621c62dcd536abfe8ee7b1292672c31bd770898c39002e168c5613d662a9bf6.ctv
-
-#EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 豆瓣高分 1080　斗鱼
 https://epg.pw/stream/d06abc6851868317e1c65fd5009b1f8c6ebc52832220936df833bf25cbe9bf5f.ctv
 
 #EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 冰冰小剧场 1080　斗鱼
@@ -174,8 +163,6 @@ https://epg.pw/stream/21066478726826535bf905d6dabd17be02e5054b3cc52298b124c52bd1
 
 #EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 霍格沃茨 1080　斗鱼
 https://epg.pw/stream/48f00683f0adde1b4dd88f0be159e8d13ea78dd0e9fe6fbe3407298c782f37a9.ctv
-
-#EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 霍格影片 1080　斗鱼
 https://epg.pw/stream/75438fe85459782a5f45ca05770a168d9fb7b59131421791175e1627fee5b7ec.ctv
 
 #EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 惊悚影院 1080　斗鱼
@@ -186,8 +173,6 @@ https://epg.pw/stream/dd75feed0085e3c8cea754977d0c093a65282f313136456061d044d903
 
 #EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 怡寳影院 720 斗鱼
 https://epg.pw/stream/6c3158427812c00740596057ac94f14a46b7251f7033c676fe670091e8d5b932.ctv
-
-#EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 怡寳影院 720 斗鱼
 https://epg.pw/stream/5c3120d508451a0cda74d2584f4012cbd3a7ce5379693a8a0dd523e1d947092d.ctv
 
 #EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 悬疑犯罪 1080 斗鱼
