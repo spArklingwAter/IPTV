@@ -249,19 +249,6 @@ https://epg.pw/stream/0fd8018407512cea0d5bbfcbb2b243b6c6e0ae626c9c8396a1d42c907f
 
 #EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV 8K
 #https://epg.pw/stream/f48875235ce63399ced8a8f27167ceea2fda31675f2b15a967a49f1ec6bba9f7.m3u8
-
-#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png", CGTN 576
-https://epg.pw/stream/5f04869499fad3233d1cbad2d29d36fa2afe6377a3ede6b0b91e58e3998c473b.m3u8
-
-#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png", CGTN 6
-https://epg.pw/stream/818865a0d120ab164b82d50accb8101611eeac92d440cd816592d909d4b51685.m3u8
-
-#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png", CGTN 8
-https://epg.pw/stream/0d147ce40a3bd81f0f8e0a4c658c8f87544e06a0659013299324674dba4bbf53.m3u8
-
-#EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png", CGTN 9
-https://epg.pw/stream/17f2e97204f85c9c75746610f376125b774c9ee69be094d60498ea53913cc1de.m3u8
-
-#EXTINF:-1 group-title="A&E" tvg-id="ETTV" tvg-name="ETTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", A&E HD
-#https://epg.pw/stream/6f1fe4bc344240165c778a640b3fbfcbd8681ef31aeb9b6261360fac8a9e6c72.ctv
-https://epg.pw/stream/7be75e9d2cac79195be1bcf6a832fecad019d33d83a8f002ab1f7aa70e4abfd9.ctv
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/7225/index.m3u8
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/7328/index.m3u8
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/18034/index.m3u8
