@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="綜合" tvg-id="GRTGBATV" tvg-name="大湾区卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b6/GRT_GBA_TV.jpg", 广东大湾区卫视 576
+#EXTINF:-1 group-title="綜合" tvg-id="GRTGBATV" tvg-name="广东卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b6/GRT_GBA_TV.jpg", 广东大湾区卫视 576
 https://epg.pw/stream/c065ebfda5574c6f3a9a99827d590b3c4a7a01bc84c8027b9d679df98767f645.m3u8
 https://epg.pw/stream/3752e5819df4bb8c6a4c18ba3143efa79eb08028a4640d5472830c8a23694cc9.m3u8
 
@@ -51,19 +51,19 @@ https://epg.pw/stream/b3b0bec1c9a7528f5391ba053b2a9badba0a28d1b29dc130719c5374b1
 #EXTINF:-1 group-title="綜合" tvg-id="DAE03" tvg-name="华艺MBC" tvg-logo="https://today-obs.line-scdn.net/0hyxLFjXgqJldxPw3J4ldZAEtpJThCUzVUFQl3VDJReGMJWGkJGVs-ZlNofTNdDWEJHwxsNl09PWYPDWVTSVo-/w580", 華藝MBC綜合台 1080
 https://epg.pw/stream/9174278ef54603e412aa31d06507e17d066ae7882c1a6a29b61202737d194dca.ctv
 
-#EXTINF:-1 group-title="綜合" tvg-id="TDM01" tvg-name="TDM Ou Mun" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png", 澳視澳門 720
+#EXTINF:-1 group-title="綜合" tvg-id="TDM01" tvg-name="澳视澳门" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png", 澳視澳門 720
 https://epg.pw/stream/4fe427079b7bb8f8ded79e4bdff30806e0b2c8a868c74250de861524f57abc8b.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="MASTV01" tvg-name="Macau Asia Satellite TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d6/MASTV.png", 澳亞衛視 480
+#EXTINF:-1 group-title="綜合" tvg-id="MASTV01" tvg-name="澳亚卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d6/MASTV.png", 澳亞衛視 480
 https://epg.pw/stream/76ebf0b263bf419dac4edbcb1b3ee573b770caadcf1ae52c5f4b80aea21fc591.m3u8
 
-#EXTINF:-1 group-title="新聞" tvg-id="GRTNEWS" tvg-name="GRT News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/35/GRT_News_Channel_Logo_2019.png", 广东新闻 576
+#EXTINF:-1 group-title="新聞" tvg-id="GRTNEWS" tvg-name="广东新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/35/GRT_News_Channel_Logo_2019.png", 广东新闻 576
 https://epg.pw/stream/3ee53d4a4053ba68b40413c2922ec913757a99702393e5cd9d9ca6481c47978d.m3u8
 
-#EXTINF:-1 group-title="新聞" tvg-id="TDMI" tvg-name="TDM Info" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg", 澳門資訊 720
+#EXTINF:-1 group-title="新聞" tvg-id="TDMI" tvg-name="澳门资讯" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg", 澳門資訊 720
 https://epg.pw/stream/8c76538fb148cc83050704809463d2df75fe942b980f475ca99ffef45deaa737.m3u8
 
-#EXTINF:-1 group-title="新聞" tvg-id="SET03" tvg-name="SET News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png", 三立新聞台 1080
+#EXTINF:-1 group-title="新聞" tvg-id="SET03" tvg-name="三立新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png", 三立新聞台 1080
 https://epg.pw/stream/a9a2e501913c98efed2e214012ea74e4d053820fed876ce21030473ee5ee9a34.ctv
 
 #EXTINF:-1 group-title="新聞" tvg-id="CTV02" tvg-name="CTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png", 中視新聞 1080
