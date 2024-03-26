@@ -1,54 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="綜合" tvg-id="GRTGBATV" tvg-name="GRT GBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b6/GRT_GBA_TV.jpg", 广东大湾区卫视 576
+#EXTINF:-1 group-title="綜合" tvg-id="GRTGBATV" tvg-name="大湾区卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b6/GRT_GBA_TV.jpg", 广东大湾区卫视 576
 https://epg.pw/stream/c065ebfda5574c6f3a9a99827d590b3c4a7a01bc84c8027b9d679df98767f645.m3u8
 https://epg.pw/stream/3752e5819df4bb8c6a4c18ba3143efa79eb08028a4640d5472830c8a23694cc9.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="SZTV" tvg-name="SZ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/SZSTV_logo.png", 深圳卫视 1080
+#EXTINF:-1 group-title="綜合" tvg-id="SZTV" tvg-name="深圳卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/SZSTV_logo.png", 深圳卫视 1080
 https://epg.pw/stream/812cad00d672662e36b8a4a3d967ab826c0d8f4a3fd02ee64389b0bdc116bd43.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="SZTV" tvg-name="SZ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/SZSTV_logo.png", 深圳卫视 576
+#EXTINF:-1 group-title="綜合" tvg-id="SZTV" tvg-name="深圳卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/SZSTV_logo.png", 深圳卫视 576
 https://epg.pw/stream/e4707846a350e75313640d6095b09619f8417ff96f1417664ff8fff6924f1ea1.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="HUNSTV" tvg-name="Hunan STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png", 湖南卫视 576
+#EXTINF:-1 group-title="綜合" tvg-id="HUNSTV" tvg-name="湖南卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png", 湖南卫视 576
 https://epg.pw/stream/98760919199aeb391854e9698f0ec090972c1f03879d4fd98943994d7812205d.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="HUBTV" tvg-name="Hubei STV" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123343786.jpg", 湖北卫视 576
+#EXTINF:-1 group-title="綜合" tvg-id="HUBTV" tvg-name="湖北卫视" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123343786.jpg", 湖北卫视 576
 https://epg.pw/stream/49cc9ebf993e11022d8267050fcb838287ecb0537db193396d55c45227429b44.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="BRTV" tvg-name="BJ STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg", 北京卫视 576
+#EXTINF:-1 group-title="綜合" tvg-id="BRTV" tvg-name="北京卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg", 北京卫视 576
 https://epg.pw/stream/ee7dbd9683ac6cf88aba32e1143668af708da41d4f9934eb8cf218a7b9a79710.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="JSTV" tvg-name="JS STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png", 江苏卫视 576
+#EXTINF:-1 group-title="綜合" tvg-id="JSTV" tvg-name="江苏卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png", 江苏卫视 576
 https://epg.pw/stream/4766e2f07114295179bf992a944d1464fc9a832f4aea144a5c251ee4d5796a50.m3u8
 https://epg.pw/stream/3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="GXSTV" tvg-name="GX STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/LOGOGuangxiTV.jpg", 广西卫视 1080
+#EXTINF:-1 group-title="綜合" tvg-id="GXSTV" tvg-name="广西卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/LOGOGuangxiTV.jpg", 广西卫视 1080
 https://epg.pw/stream/fd42bf7648f41c0bc4f2824aa17b174b4588405985baa28a887022e04791489e.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="HENSTV" tvg-name="Henan STV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png", 河南卫视 576
+#EXTINF:-1 group-title="綜合" tvg-id="HENSTV" tvg-name="河南卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png", 河南卫视 576
 https://epg.pw/stream/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="TTV01" tvg-name="TTV Main" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png", 台視 720
+#EXTINF:-1 group-title="綜合" tvg-id="TTV01" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png", 台視 720
 https://epg.pw/stream/504675e2d89ccd03cb5f56f1653f4babe449aaf10fe6b1e2e8fc40704309794a.ctv
 
-#EXTINF:-1 group-title="綜合" tvg-id="CTV01" tvg-name="CTV Main" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/298px-China_TV_logo_since_19971030.svg.png", 中視 720
+#EXTINF:-1 group-title="綜合" tvg-id="CTV01" tvg-name="中视" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/298px-China_TV_logo_since_19971030.svg.png", 中視 720
 https://epg.pw/stream/d8d3b1452b4420e92ad830b5845e4883d57bdf99128ab9e105ec4492e4532386.ctv
 
-#EXTINF:-1 group-title="綜合" tvg-id="CTS01" tvg-name="CTS Main" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png", 華視 720
+#EXTINF:-1 group-title="綜合" tvg-id="CTS01" tvg-name="华视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png", 華視 720
 https://epg.pw/stream/eb2900b3b1e2b6016fe5090c1409f5561b06bd41a1f209aab97af62489321a11.ctv
 
-#EXTINF:-1 group-title="綜合" tvg-id="FTV01" tvg-name="FTV Main" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/320px-FTV_HD_Logo.svg.png", 民視 1080
+#EXTINF:-1 group-title="綜合" tvg-id="FTV01" tvg-name="民视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/320px-FTV_HD_Logo.svg.png", 民視 1080
 https://epg.pw/stream/12449a1ea995edd85839e1ff1a81d4badd4d74cb631d8b78dffb19ff26d5f9c6.ctv
 https://epg.pw/stream/6765c795b36ffcd72d5a56790d65c785bfec9a86987ba997bd2b4f99be880105.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="CTI04" tvg-name="CTI Asia" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/CTi_%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0.png/revision/latest?cb=20221203134351&path-prefix=vi", 中天亞洲
+#EXTINF:-1 group-title="綜合" tvg-id="CTI04" tvg-name="中天亚洲台" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/CTi_%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0.png/revision/latest?cb=20221203134351&path-prefix=vi", 中天亞洲
 https://epg.pw/stream/868493d0152ac00b0e11aed6eb73cd9d7c8db8452c47317caa3be715373f1937.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="SET01" tvg-name="SET Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png", 三立Live台 1080
+#EXTINF:-1 group-title="綜合" tvg-id="SET01" tvg-name="三立综合台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png", 三立Live台 1080
 https://epg.pw/stream/b3b0bec1c9a7528f5391ba053b2a9badba0a28d1b29dc130719c5374b1e51c25.ctv
 
-#EXTINF:-1 group-title="綜合" tvg-id="DAE03" tvg-name="Dragon Art MBC" tvg-logo="https://today-obs.line-scdn.net/0hyxLFjXgqJldxPw3J4ldZAEtpJThCUzVUFQl3VDJReGMJWGkJGVs-ZlNofTNdDWEJHwxsNl09PWYPDWVTSVo-/w580", 華藝MBC綜合台 1080
+#EXTINF:-1 group-title="綜合" tvg-id="DAE03" tvg-name="华艺MBC" tvg-logo="https://today-obs.line-scdn.net/0hyxLFjXgqJldxPw3J4ldZAEtpJThCUzVUFQl3VDJReGMJWGkJGVs-ZlNofTNdDWEJHwxsNl09PWYPDWVTSVo-/w580", 華藝MBC綜合台 1080
 https://epg.pw/stream/9174278ef54603e412aa31d06507e17d066ae7882c1a6a29b61202737d194dca.ctv
 
 #EXTINF:-1 group-title="綜合" tvg-id="TDM01" tvg-name="TDM Ou Mun" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png", 澳視澳門 720
