@@ -66,50 +66,50 @@ https://epg.pw/stream/8c76538fb148cc83050704809463d2df75fe942b980f475ca99ffef45d
 #EXTINF:-1 group-title="新聞" tvg-id="SET03" tvg-name="三立新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png", 三立新聞台 1080
 https://epg.pw/stream/a9a2e501913c98efed2e214012ea74e4d053820fed876ce21030473ee5ee9a34.ctv
 
-#EXTINF:-1 group-title="新聞" tvg-id="CTV02" tvg-name="CTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png", 中視新聞 1080
+#EXTINF:-1 group-title="新聞" tvg-id="CTV02" tvg-name="中视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png", 中視新聞 1080
 https://epg.pw/stream/65e0e964c399159353181cd261475279b7685cbf55df0b37ac20e7e581fc5eec.ctv
 
-#EXTINF:-1 group-title="新聞" tvg-id="CTS03" tvg-name="CTS News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png", 華視新聞資訊 1080
+#EXTINF:-1 group-title="新聞" tvg-id="CTS03" tvg-name="华视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png", 華視新聞資訊 1080
 https://epg.pw/stream/60f10eebcb0fb874361982d989cbb3b3c0156b66523d49b1d68905ccd9cb4c09.m3u8
 
-#EXTINF:-1 group-title="新聞" tvg-id="CTI01" tvg-name="CTI News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg", 中天新聞 1080
+#EXTINF:-1 group-title="新聞" tvg-id="CTI01" tvg-name="中天新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg", 中天新聞 1080
 https://epg.pw/stream/18ba44496c5abb30f4eeb5ebbf707f0dd699aed0b9f3594ac1cfff03c804d3fd.ctv
 
-#EXTINF:-1 group-title="新聞" tvg-id="UBN02" tvg-name="UBN News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/Ustv_logo.jpg", 非凡新聞台 1080
+#EXTINF:-1 group-title="新聞" tvg-id="UBN02" tvg-name="非凡新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/Ustv_logo.jpg", 非凡新聞台 1080
 https://epg.pw/stream/bc21a65a0c9f898dd5df89233204a912fca1b47a7637de53d0d72e55e580d380.ctv
 
-#EXTINF:-1 group-title="新聞" tvg-id="MNEWS" tvg-name="M News" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/915_pic_20220503151817.png", 鏡新聞 1080
+#EXTINF:-1 group-title="新聞" tvg-id="MNEWS" tvg-name="镜新闻" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/915_pic_20220503151817.png", 鏡新聞 1080
 https://epg.pw/stream/7087b216e085944f5fcc429214944bf3e3c9eb89cb0598a48d45c4e5657c7024.ctv
 
-#EXTINF:-1 group-title="新聞" tvg-id="MNEWS1" tvg-name="M News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a6/MNEWS_logo.png", 鏡新聞 1080
+#EXTINF:-1 group-title="新聞" tvg-id="MNEWS1" tvg-name="镜新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a6/MNEWS_logo.png", 鏡新聞 1080
 https://epg.pw/stream/1ec83e5bf16fdaae1c6b1b84152578c2559258ae4f9eac5c0ea8c960db35c7c6.m3u8
 
-#EXTINF:-1 group-title="新聞" tvg-id="ERA02" tvg-name="Era News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg", 年代新聞 1080
+#EXTINF:-1 group-title="新聞" tvg-id="ERA02" tvg-name="年代新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg", 年代新聞 1080
 https://epg.pw/stream/0a8db43d1ef30c5d322d3022c13a3fabb65b27ac248335094c79325c1b13fc2c.ctv
 
-#EXTINF:-1 group-title="新聞" tvg-id="NEXT02" tvg-name="Next News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Next_TV_News_Logo.png", 壹新聞 1080
+#EXTINF:-1 group-title="新聞" tvg-id="NEXT02" tvg-name="壹新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Next_TV_News_Logo.png", 壹新聞 1080
 https://epg.pw/stream/2a8474f86f658ccbe71d1f6e6256cb018bd7179c330b94a9b6e3038e897e57bb.ctv
 
-#EXTINF:-1 group-title="新聞" tvg-id="now12" tvg-name="now News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/109px-Now_News_logo.svg.png", now新聞台 1080
+#EXTINF:-1 group-title="新聞" tvg-id="now12" tvg-name="now新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/109px-Now_News_logo.svg.png", now新聞台 1080
 #https://epg.pw/stream/81f5ffef845e8ea1bb69389d2413f8d7869efc69fbbeffd9b5cf200a853efdf8.ctv
 
-#EXTINF:-1 group-title="財經" tvg-id="EBC03" tvg-name="EBC Financial News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png", 東森財經新聞 1080
+#EXTINF:-1 group-title="財經" tvg-id="EBC03" tvg-name="东森财经新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png", 東森財經新聞 1080
 https://epg.pw/stream/67150bce9f57969c3eae71ae6db5cfe6fe54db9c47c33d328a535e16c46e1265.m3u8
 https://epg.pw/stream/2be11f287d5f9ca99671eb5b655c31089799a63584e271d2d69dbdfc5ffaf2b5.m3u8
 
-#EXTINF:-1 group-title="財經" tvg-id="BS" tvg-name="BS Financial" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png", 耀財財經 576
+#EXTINF:-1 group-title="財經" tvg-id="BS" tvg-name="耀财财经" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png", 耀財財經 576
 https://epg.pw/stream/3b013250831c9e72615f9d2d2df834bc0eb0bbde5911a30fb34eeb6bfc2f0510.m3u8
 
-#EXTINF:-1 group-title="資訊" tvg-id="APTW" tvg-name="Animal Planet TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png", 動物星球 1080
+#EXTINF:-1 group-title="資訊" tvg-id="APTW" tvg-name="动物星球" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png", 動物星球 1080
 https://epg.pw/stream/a14d08191c32e9211726ee77752c8888e6b5f888f88cc119e7697bb63dd8c314.m3u8
 
-#EXTINF:-1 group-title="運動" tvg-id="CCTV5p" tvg-name="CCTV-5+" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png", CCTV5+ 1080
+#EXTINF:-1 group-title="運動" tvg-id="CCTV5p" tvg-name="CCTV5+" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png", CCTV5+ 1080
 https://epg.pw/stream/88e9b33036aac3ca28574e9ab711afd7a87663391812a08c9fbb2afd4e399217.m3u8
 
-#EXTINF:-1 group-title="運動" tvg-id="CCTV16" tvg-name="CCTV-16" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/39/CCTV-16.png", CCTV16 奥林匹克 1080
+#EXTINF:-1 group-title="運動" tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/39/CCTV-16.png", CCTV16 奥林匹克 1080
 https://epg.pw/stream/71dfb5f72cf52de73da7e18140080b40d2d4f4f21ad7af90a3e3572dd28a3e67.m3u8
 
-#EXTINF:-1 group-title="運動" tvg-id="GDSP" tvg-name="GD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/Guangdong_Sports_2019.png", 广东体育 720
+#EXTINF:-1 group-title="運動" tvg-id="GDSP" tvg-name="广东体育" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/Guangdong_Sports_2019.png", 广东体育 720
 https://epg.pw/stream/8ae4657525dd77ddcde82baccb8de5570dcdee86d3ff5c60cfab62a0570bfca3.ctv
 
 #EXTINF:-1 group-title="娛樂" tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/320px-ViuTV_logo.svg.png", ViuTV 1080
@@ -206,25 +206,25 @@ https://epg.pw/stream/e06d88e9c92534ad75c0fafc99f6e7515ef3537b0c6f43dc0c2d5f0d12
 #EXTINF:-1 group-title="影視" tvg-id="DOUYU" tvg-name="DOUYU" tvg-logo="", 贝爷求生 1080 斗鱼
 https://epg.pw/stream/eefb7c80b9d5960622a318c35e251b67069122cd1ad849fdbd06747892d26351.ctv
 
-#EXTINF:-1 group-title="影視" tvg-id="EBC04" tvg-name="EBC Moive" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/7/7f/%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1%E5%8F%B0%E5%8F%B0%E6%A8%99.jpg/revision/latest?cb=20200603061726&path-prefix=zh-tw", 東森電影台 1080
+#EXTINF:-1 group-title="影視" tvg-id="EBC04" tvg-name="东森电影" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/7/7f/%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1%E5%8F%B0%E5%8F%B0%E6%A8%99.jpg/revision/latest?cb=20200603061726&path-prefix=zh-tw", 東森電影台 1080
 https://epg.pw/stream/ae50aa5b72bfd67772dee5a4672bc19ed3f031ed436a43df779a78c353044fed.ctv
 
 #EXTINF:-1 group-title="影視" tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png", AXN 1080
 https://epg.pw/stream/4b961020c681997b48b918296c85070184ec2a7d80ebb533efa1576517903130.ctv
 
-#EXTINF:-1 group-title="影視" tvg-id="HBOSA" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO原創鉅獻 1080
+#EXTINF:-1 group-title="影視" tvg-id="HBOSA" tvg-name="HBO原创巨献" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO原創鉅獻 1080
 https://epg.pw/stream/34602f3becc47a60157947ca44b42dcec12e0ffc398c5abf6c6b3e8ccb4d89d1.ctv
 
-#EXTINF:-1 group-title="影視" tvg-id="MEIAH01" tvg-name="Mei Ah Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/60/Mei_Ah_Movies_Channel_logo.png", 美亞電影台 1080
+#EXTINF:-1 group-title="影視" tvg-id="MEIAH01" tvg-name="美亚电影台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/60/Mei_Ah_Movies_Channel_logo.png", 美亞電影台 1080
 #https://epg.pw/stream/aa88ab270d022850b9ed3159bfa0e6123828543c72f65c502dadd3e7438db368.ctv
 
-#EXTINF:-1 group-title="影視" tvg-id="EBC05" tvg-name="EBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png", 東森戲劇台 1080
+#EXTINF:-1 group-title="影視" tvg-id="EBC05" tvg-name="东森戏剧台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png", 東森戲劇台 1080
 https://epg.pw/stream/26debdca4595ae8c1f124ce856699fecd565b49296823238645ff0b3e0e16f2b.ctv
 
-#EXTINF:-1 group-title="影視" tvg-id="ELTA05" tvg-name="ELTA Drama" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png", ELTA影劇台 720
+#EXTINF:-1 group-title="影視" tvg-id="ELTA05" tvg-name="爱尔达影剧台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png", ELTA影劇台 720
 https://epg.pw/stream/c02e6d6bbf3f7d0192a6c760b9fb0552a72544771b4655f807b76313b3c9a00a.ctv
 
-#EXTINF:-1 group-title="影視" tvg-id="LTV02" tvg-name="LTV Drama" tvg-logo="http://www.ltv.com.tw/wp-content/uploads/ltv-uploads/%E9%BE%8D%E8%8F%AF%E6%88%B2%E5%8A%87-300x161.jpg", 龍華戲劇 720
+#EXTINF:-1 group-title="影視" tvg-id="LTV02" tvg-name="龙华戏剧" tvg-logo="http://www.ltv.com.tw/wp-content/uploads/ltv-uploads/%E9%BE%8D%E8%8F%AF%E6%88%B2%E5%8A%87-300x161.jpg", 龍華戲劇 720
 https://epg.pw/stream/723325f83f679cf1fad0d08df3f01b54a2bb9bca256f1e0aaf372b968e890df0.ctv
 
 #EXTINF:-1 group-title="影視" tvg-id="" tvg-name="" tvg-logo="", Star 1080
@@ -233,19 +233,19 @@ https://epg.pw/stream/723325f83f679cf1fad0d08df3f01b54a2bb9bca256f1e0aaf372b968e
 #EXTINF:-1 group-title="影視" tvg-id="" tvg-name="" tvg-logo="", HBO 1080
 #https://epg.pw/stream/43a594b79c4a6e1b2974acf73e72b19f5173584848e35b4173713e449560e7dc.ctv
 
-#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 32 480
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 32 480
 https://epg.pw/stream/2e72b8a7fc1adcc198912392aa27586ce85e282cbd2ee4544d9cf398c0e68d97.m3u8
 
-#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 33 720
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 33 720
 https://epg.pw/stream/6923d4d4813b6d77a7f00607a9d64e570e06b01d0a1db7ca3a7c29e04d6c205a.m3u8
 
-#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 33 480
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 33 480
 https://epg.pw/stream/7ac2b477ebb7aab968e3ccd99d900060f209a1eb074e6ce945b91571c997ce95.m3u8
 
-#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 34 720
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 34 720
 https://epg.pw/stream/2f41dcfe94b387f363249bd732d8791043db8c88e89c4fa7ce55998abe67c630.m3u8
 
-#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 34 576
+#EXTINF:-1 group-title="RTHK" tvg-id="RTHK" tvg-name="RTHK34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/320px-Radio_Television_Hong_Kong_Logo.svg.png", RTHKTV 34 576
 https://epg.pw/stream/0fd8018407512cea0d5bbfcbb2b243b6c6e0ae626c9c8396a1d42c907f45464f.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-id="CGTN" tvg-name="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV 8K
