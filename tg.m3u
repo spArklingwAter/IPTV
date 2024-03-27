@@ -18,9 +18,7 @@ https://epg.pw/stream/63ea6a07dc5771120e08aace228411b65632ffbba78e8614799a8d5166
 https://epg.pw/stream/c6e31d2783c9fc3ebbdf5bed9f598d194f4568b2dff31b30c2de9f756995f82d.ctv
 
 #EXTINF:-1 group-title="綜合" tvg-id="BRTV" tvg-name="北京卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg", 北京卫视 576
-https://epg.pw/stream/ae7d68e1ce25bb6193e93425205f30b0ed7436cf28ebb571a30c54d08e5226d4.m3u8
-https://epg.pw/stream/ee7dbd9683ac6cf88aba32e1143668af708da41d4f9934eb8cf218a7b9a79710.m3u8
-https://epg.pw/stream/98f4b54f9a0d133d86ded20a365b9ba666afd50995ddd095e9e2840d67e58017.m3u8
+https://epg.pw/stream/ae7d68e1ce25bb6193e93425205f30b0ed7436cf28ebb571a30c54d08e5226d4,ee7dbd9683ac6cf88aba32e1143668af708da41d4f9934eb8cf218a7b9a79710,98f4b54f9a0d133d86ded20a365b9ba666afd50995ddd095e9e2840d67e58017.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="JSTV" tvg-name="江苏卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png", 江苏卫视
 https://epg.pw/stream/4766e2f07114295179bf992a944d1464fc9a832f4aea144a5c251ee4d5796a50.m3u8
