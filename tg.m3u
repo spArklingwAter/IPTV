@@ -12,17 +12,13 @@ https://epg.pw/stream/e4707846a350e75313640d6095b09619f8417ff96f1417664ff8fff692
 https://epg.pw/stream/98760919199aeb391854e9698f0ec090972c1f03879d4fd98943994d7812205d.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="HUBTV" tvg-name="湖北卫视" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123343786.jpg", 湖北卫视 576
-https://epg.pw/stream/49cc9ebf993e11022d8267050fcb838287ecb0537db193396d55c45227429b44.m3u8
-https://epg.pw/stream/11a27a1eb12a1c6020ea2f80804d50db752fbd4c2c7cf3c456dd309d9033a98c.m3u8
-https://epg.pw/stream/63ea6a07dc5771120e08aace228411b65632ffbba78e8614799a8d51669e1fbc.m3u8
-https://epg.pw/stream/c6e31d2783c9fc3ebbdf5bed9f598d194f4568b2dff31b30c2de9f756995f82d.ctv
+https://epg.pw/stream/49cc9ebf993e11022d8267050fcb838287ecb0537db193396d55c45227429b44,11a27a1eb12a1c6020ea2f80804d50db752fbd4c2c7cf3c456dd309d9033a98c,63ea6a07dc5771120e08aace228411b65632ffbba78e8614799a8d51669e1fbc.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="BRTV" tvg-name="北京卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg", 北京卫视 576
 https://epg.pw/stream/ae7d68e1ce25bb6193e93425205f30b0ed7436cf28ebb571a30c54d08e5226d4,ee7dbd9683ac6cf88aba32e1143668af708da41d4f9934eb8cf218a7b9a79710,98f4b54f9a0d133d86ded20a365b9ba666afd50995ddd095e9e2840d67e58017.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="JSTV" tvg-name="江苏卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png", 江苏卫视
-https://epg.pw/stream/4766e2f07114295179bf992a944d1464fc9a832f4aea144a5c251ee4d5796a50.m3u8
-https://epg.pw/stream/3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77.m3u8
+https://epg.pw/stream/4766e2f07114295179bf992a944d1464fc9a832f4aea144a5c251ee4d5796a50,3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77,.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="GXSTV" tvg-name="广西卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/LOGOGuangxiTV.jpg", 广西卫视 1080
 https://epg.pw/stream/fd42bf7648f41c0bc4f2824aa17b174b4588405985baa28a887022e04791489e.m3u8
