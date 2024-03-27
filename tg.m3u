@@ -28,7 +28,7 @@ https://epg.pw/stream/98f4b54f9a0d133d86ded20a365b9ba666afd50995ddd095e9e2840d67
 https://epg.pw/stream/4766e2f07114295179bf992a944d1464fc9a832f4aea144a5c251ee4d5796a50.m3u8
 https://epg.pw/stream/3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77.m3u8
 
-#EXTINF:-1 group-title="綜合" tvg-id="GXSTV" tvg-name="广西卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/LOGOGuangxiTV.jpg", 广西卫视 1080
+#EXTINF:-1 group-title="綜合" tvg-id="GXSTV" tvg-name="广西卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/LOGOGuangxiTV.jpg", 广西卫视
 https://epg.pw/stream/f91f789a07a2843f5f2ecc56a83737340fca354c28776008a87eab04a681d75a.m3u8
 https://epg.pw/stream/4c5f36396d332e46e1100935b5d70096a96b436a2acd0f71a700488ba3f3e536.m3u8
 https://epg.pw/stream/fd42bf7648f41c0bc4f2824aa17b174b4588405985baa28a887022e04791489e.m3u8
@@ -49,7 +49,7 @@ https://epg.pw/stream/d8d3b1452b4420e92ad830b5845e4883d57bdf99128ab9e105ec4492e4
 #EXTINF:-1 group-title="綜合" tvg-id="CTS01" tvg-name="华视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png", 華視 720
 https://epg.pw/stream/eb2900b3b1e2b6016fe5090c1409f5561b06bd41a1f209aab97af62489321a11.ctv
 
-#EXTINF:-1 group-title="綜合" tvg-id="FTV01" tvg-name="民视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/320px-FTV_HD_Logo.svg.png", 民視 1080
+#EXTINF:-1 group-title="綜合" tvg-id="FTV01" tvg-name="民视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/320px-FTV_HD_Logo.svg.png", 民視
 https://epg.pw/stream/12449a1ea995edd85839e1ff1a81d4badd4d74cb631d8b78dffb19ff26d5f9c6.ctv
 https://epg.pw/stream/6765c795b36ffcd72d5a56790d65c785bfec9a86987ba997bd2b4f99be880105.m3u8
 
