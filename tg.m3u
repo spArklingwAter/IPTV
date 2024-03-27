@@ -10,20 +10,34 @@ https://epg.pw/stream/e4707846a350e75313640d6095b09619f8417ff96f1417664ff8fff692
 
 #EXTINF:-1 group-title="綜合" tvg-id="HUNSTV" tvg-name="湖南卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png", 湖南卫视
 https://epg.pw/stream/98760919199aeb391854e9698f0ec090972c1f03879d4fd98943994d7812205d.m3u8
+https://epg.pw/stream/98483d49b7664cad39569fa5fe740d789fc54ce26dda630432eefd8647a9885b.m3u8
+https://epg.pw/stream/672a48e9377f01e65fc0292606274042b12ef6c5c09a405a21258ff22e9e5ca9.m3u8
+https://epg.pw/stream/ceb0350bf607e7de789758adb0ee3a1e5e0de91b7de8c1a05f86e2dd6f4916ab.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="HUBTV" tvg-name="湖北卫视" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123343786.jpg", 湖北卫视 576
-https://epg.pw/stream/49cc9ebf993e11022d8267050fcb838287ecb0537db193396d55c45227429b44,11a27a1eb12a1c6020ea2f80804d50db752fbd4c2c7cf3c456dd309d9033a98c,63ea6a07dc5771120e08aace228411b65632ffbba78e8614799a8d51669e1fbc.m3u8
+https://epg.pw/stream/49cc9ebf993e11022d8267050fcb838287ecb0537db193396d55c45227429b44.m3u8
+https://epg.pw/stream/11a27a1eb12a1c6020ea2f80804d50db752fbd4c2c7cf3c456dd309d9033a98c.m3u8
+https://epg.pw/stream/63ea6a07dc5771120e08aace228411b65632ffbba78e8614799a8d51669e1fbc.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="BRTV" tvg-name="北京卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg", 北京卫视 576
-https://epg.pw/stream/ae7d68e1ce25bb6193e93425205f30b0ed7436cf28ebb571a30c54d08e5226d4,ee7dbd9683ac6cf88aba32e1143668af708da41d4f9934eb8cf218a7b9a79710,98f4b54f9a0d133d86ded20a365b9ba666afd50995ddd095e9e2840d67e58017.m3u8
+https://epg.pw/stream/ae7d68e1ce25bb6193e93425205f30b0ed7436cf28ebb571a30c54d08e5226d4.m3u8
+https://epg.pw/stream/ee7dbd9683ac6cf88aba32e1143668af708da41d4f9934eb8cf218a7b9a79710.m3u8
+https://epg.pw/stream/98f4b54f9a0d133d86ded20a365b9ba666afd50995ddd095e9e2840d67e58017.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="JSTV" tvg-name="江苏卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png", 江苏卫视
-https://epg.pw/stream/4766e2f07114295179bf992a944d1464fc9a832f4aea144a5c251ee4d5796a50,3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77,.m3u8
+https://epg.pw/stream/4766e2f07114295179bf992a944d1464fc9a832f4aea144a5c251ee4d5796a50.m3u8
+https://epg.pw/stream/3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="GXSTV" tvg-name="广西卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/LOGOGuangxiTV.jpg", 广西卫视 1080
+https://epg.pw/stream/f91f789a07a2843f5f2ecc56a83737340fca354c28776008a87eab04a681d75a.m3u8
+https://epg.pw/stream/4c5f36396d332e46e1100935b5d70096a96b436a2acd0f71a700488ba3f3e536.m3u8
 https://epg.pw/stream/fd42bf7648f41c0bc4f2824aa17b174b4588405985baa28a887022e04791489e.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="HENSTV" tvg-name="河南卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png", 河南卫视 576
+https://epg.pw/stream/23db28c32ab3480201f1786bd63814a74e07902931ef4aa44300461df3ec1495.m3u8
+https://epg.pw/stream/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8
+https://epg.pw/stream/54d6017ab67cfcbb72c960500d2ce330be607ab8f3b2fb3d3f779596d21dcb5a.m3u8
+https://epg.pw/stream/7331faf4032e9de329e2c041cd9fa6f95fad0683ef1937a7bbbb76322856b9eb.m3u8
 https://epg.pw/stream/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="TTV01" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png", 台視 720
@@ -94,7 +108,7 @@ https://epg.pw/stream/2a8474f86f658ccbe71d1f6e6256cb018bd7179c330b94a9b6e3038e89
 https://epg.pw/stream/67150bce9f57969c3eae71ae6db5cfe6fe54db9c47c33d328a535e16c46e1265.m3u8
 https://epg.pw/stream/2be11f287d5f9ca99671eb5b655c31089799a63584e271d2d69dbdfc5ffaf2b5.m3u8
 
-#EXTINF:-1 group-title="財經" tvg-id="BS" tvg-name="耀才财经台" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png", 耀財財經 576
+#EXTINF:-1 group-title="財經" tvg-id="BS" tvg-name="耀才财经台" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png", 耀才財經 576
 https://epg.pw/stream/3b013250831c9e72615f9d2d2df834bc0eb0bbde5911a30fb34eeb6bfc2f0510.m3u8
 
 #EXTINF:-1 group-title="資訊" tvg-id="APTW" tvg-name="动物星球" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png", 動物星球 1080
